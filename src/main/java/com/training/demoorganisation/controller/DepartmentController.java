@@ -57,7 +57,5 @@ public class DepartmentController {
         return new ResponseEntity<List<DepartmentDTO>>(departmentDTOList, HttpStatus.OK);
     }
 
-    
-
 
 }
